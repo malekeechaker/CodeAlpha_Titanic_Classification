@@ -4,8 +4,13 @@ This project was completed during my internship with CodeAlpha. The goal is to p
 
 ## Project Structure
 
-- `titanic_prediction.ipynb`: Jupyter Notebook containing the entire analysis and machine learning model.
-- `requirements.txt`: List of required libraries and dependencies for the project.
+The notebook includes the following steps:
+
+1. **Data Importation:** Loading the Titanic dataset and displaying the first few rows.
+2. **Exploratory Data Analysis (EDA):** Analyzing data distributions, visualizing relationships, and identifying missing values.
+3. **Data Cleaning:** Handling missing data, dropping irrelevant features, and feature engineering.
+4. **Modeling:** Implementing various machine learning models, including Logistic Regression and Support Vector Machines (SVM).
+5. **Evaluation:** Using metrics like accuracy, precision, recall, and confusion matrix to evaluate model performance.
 
 ## Installation
 
